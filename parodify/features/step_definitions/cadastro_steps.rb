@@ -5,6 +5,9 @@ end
   
 Quando('submeto o meu cadastro com:') do |table|
     user = table.rows_hash
+
+    remove_email_cadastrado user[:email]
+
     find("input[name='user[email]']").set user[:email]
     find("#user_password").set user[:senha]
     find("input[placeholder='Confirme a senha']").set user[:senha_conf]
