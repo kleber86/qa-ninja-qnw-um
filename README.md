@@ -17,8 +17,7 @@
     <li>BDD na prática</li>
     <li>Conhecendo o Cucumber</li>
     <li>Integrando o Capybara</li>
-    <p>Configuração do Capybara. Uso de table na massa de dados. Instalação da Gem do Selenium Webdriver. Instalação do Chromedriver.
-    </p>
+    <p>Configuração do Capybara. Uso de table na massa de dados. Instalação da Gem do Selenium Webdriver. Instalação do Chromedriver.</p>
     <li>Preenchendo campos</li>
     <p>Utilizando hash no Ruby. Localizando elementos na DOM. Setando informações nos inputs.</p>
     <li>Finalizando o Cadastro</li>
