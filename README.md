@@ -16,13 +16,20 @@
     <li>Iniciando a Jornada do Infinito</li>
     <li>BDD na prática</li>
     <li>Conhecendo o Cucumber</li>
-    <li>Integrando o Capybara</li>
-    <p>Configuração do Capybara. Uso de table na massa de dados. Instalação da Gem do Selenium Webdriver. Instalação do Chromedriver.</p>
-    <li>Preenchendo campos</li>
-    <p>Utilizando hash no Ruby. Localizando elementos na DOM. Setando informações nos inputs.</p>
+    <li>
+        Integrando o Capybara
+        <ul>
+            <li>Configuração do Capybara. Uso de table na massa de dados. Instalação da Gem do Selenium Webdriver. Instalação do Chromedriver.</li>
+        </ul>
+    </li>
+    <li>Preenchendo campos
+        <ul>
+            <li>Utilizando hash no Ruby. Localizando elementos na DOM. Setando informações nos inputs.</li>
+        </ul>
+    </li>
     <li>Finalizando o Cadastro</li>
 </ul>
-<p><strong>Programas utilizados:</strong>Gem Capybara, Gem Selenium Webdriver, Gem Cucumber, Chromedriver.</p>
+<p><strong>Tecnologias utilizadas:</strong>Gem Capybara, Gem Selenium Webdriver, Gem Cucumber, Chromedriver.</p>
 
 <h2>Evoluindo o código de testes</h2>
 <h2>Relatórios de Testes</h2>
