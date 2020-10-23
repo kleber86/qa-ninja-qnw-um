@@ -5,10 +5,13 @@ Funcionalidade: Cadastro de Usuarios
     Quero fazer o meu cadastro
     Para que eu possa ouvir minhas musicas favoritas
 
-    @happy
+@happy
 Cenario: Cadastro
     Dado que acesso a pagina de cadastro
-    Quando submeto o meu cadastro com email, senha e confirmação da senha
+    Quando submeto o meu cadastro com:
+     |  email       |   kleber@kleber.com   |
+     |  senha       |   123456              |
+     |  senha_conf  |   123456              |
     Então devo ser redirecionado para a area logada
 
 Cenario: Email não informado
