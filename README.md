@@ -27,9 +27,18 @@
             <li>Utilizando hash no Ruby. Localizando elementos na DOM. Setando informações nos inputs.</li>
         </ul>
     </li>
-    <li>Finalizando o Cadastro</li>
+    <li>Finalizando o Cadastro
+        <ul>
+            <li>Utilizando o Rspec para fazer as validações.</li>
+        </ul>
+    </li>
+        <li>Email Duplicado. Será que deu ruim na massa?
+        <ul>
+            <li>Usando o Postman para excluir via API um email já cadastrado.</li>
+        </ul>
+    </li>
 </ul>
-<p><strong>Tecnologias utilizadas:</strong>Gem Capybara, Gem Selenium Webdriver, Gem Cucumber, Chromedriver.</p>
+<p><strong>Tecnologias utilizadas:</strong>Gem Capybara, Gem Selenium Webdriver, Gem Cucumber, Chromedriver, Rspec, Postman</p>
 
 <h2>Evoluindo o código de testes</h2>
 <h2>Relatórios de Testes</h2>
