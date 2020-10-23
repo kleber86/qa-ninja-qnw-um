@@ -9,7 +9,7 @@ Funcionalidade: Cadastro de Usuarios
 Cenario: Cadastro
     Dado que acesso a pagina de cadastro
     Quando submeto o meu cadastro com:
-     |  email       |   kleber@kleber.com   |
+     |  email       |   kleber1@kleber.com   |
      |  senha       |   123456              |
      |  senha_conf  |   123456              |
     Então devo ser redirecionado para a area logada
