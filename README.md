@@ -64,6 +64,12 @@
 </ul>
 <p><strong>Tecnologias utilizadas:</strong>Capybara, Selenium Webdriver, Cucumber, Httparty, Chromedriver, Rspec, Postman, Rufo.</p>
 
-<h2>Evoluindo o código de testes</h2>
-<h2>Relatórios de Testes</h2>
+<h2>Avançando na Automação Web</h2>
+<ul>
+    <li>Campo Tipo Email + Dynamic Steps do Cucumber
+        <ul>
+            <li>Adicionado o plugin e a Gem Rufo para indentação do código Ruby. </li>
+        </ul>
+    </li>
+</ul>
 <h2>Live de Encerramento</h2>

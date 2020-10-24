@@ -23,3 +23,13 @@ Então("devo ver a mensagem: {string}") do |expect_msg|
   alert = find(".message p")
   expect(alert.text).to eql expect_msg
 end
+
+Quando("acesso a página de cadastro") do
+  steps %(
+        Dado que acesso a pagina de cadastro
+    )
+end
+
+Então("deve exibir o seguinte css {string}") do |string|
+  expect(page).to have_css string
+end

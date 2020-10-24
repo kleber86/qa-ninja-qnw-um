@@ -28,3 +28,8 @@ Funcionalidade: Cadastro de Usuarios
             | kleber1@kleber.com |        |            | Oops! Informe sua senha.             |
             | kleber1@kleber.com | 123456 | 654321     | Oops! Senhas não são iguais.         |
             |                    |        |            | Oops! Informe seu email e sua senha. |
+
+    @temp
+    Cenario: Validar campo email
+        Quando acesso a página de cadastro
+        Então deve exibir o seguinte css "input[type=email]"
