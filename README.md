@@ -1,5 +1,4 @@
 <h1>QA Ninja Week - 1 Edição</h1>
-<hr>
 
 <h2>Apresentação</h2>
 <ul>
@@ -40,6 +39,16 @@
     <li>Consumindo a API
         <ul>
             <li>No lugar de usar o Postman para excluir um email cadastrado, foi criando uma automação para remover o email caso ele já esteja cadastrado.</li>
+        </ul>
+    </li>
+    <li>Reaproveitando Steps do Cucumber
+        <ul>
+            <li>Nesta aula foi aplicada uma tecnica para reaproveitamento das especificações em BDD.</li>
+        </ul>
+    </li>
+    <li>Esquema do Cenário. A Cereja do Bolo
+        <ul>
+            <li>Refatorando o BDD com Esquena do Cenario.</li>
         </ul>
     </li>
 </ul>
