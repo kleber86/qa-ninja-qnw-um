@@ -68,8 +68,15 @@
 <ul>
     <li>Campo Tipo Email + Dynamic Steps do Cucumber
         <ul>
-            <li>Adicionado o plugin e a Gem Rufo para indentação do código Ruby. </li>
+            <li>Validando se o que foi digitado é um email e reaproveitando steps já utilizadas.</li>
+        </ul>
+    </li>
+    <li>Automatizando o Login
+        <ul>
+            <li>Automatizando a feature Login. Reaproveitamento de steps de outras features com o mesmo nome.</li>
         </ul>
     </li>
 </ul>
+
+<p><strong>Tecnologias utilizadas:</strong>Dynamic Steps, </p>
 <h2>Live de Encerramento</h2>
