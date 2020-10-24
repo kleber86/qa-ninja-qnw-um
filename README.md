@@ -51,6 +51,11 @@
             <li>Refatorando o BDD com Esquena do Cenario.</li>
         </ul>
     </li>
+    <li>Dica: Formatando a Feature
+        <ul>
+            <li>O plugin do Cucumber não possui suporte para indentação do código em BDD quando utilizado na idioma PT. O instrutor criou uma configuração para adicionar ao VSCode o suporte de indentação. </li>
+        </ul>
+    </li>
 </ul>
 <p><strong>Tecnologias utilizadas:</strong>Capybara, Selenium Webdriver, Cucumber, Httparty, Chromedriver, Rspec, Postman.</p>
 
