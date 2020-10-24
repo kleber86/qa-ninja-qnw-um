@@ -56,8 +56,13 @@
             <li>O plugin do Cucumber não possui suporte para indentação do código em BDD quando utilizado na idioma PT. O instrutor criou uma configuração para adicionar ao VSCode o suporte de indentação. </li>
         </ul>
     </li>
+    <li>Dica: Formatando o Código
+        <ul>
+            <li>Adicionado o plugin e a Gem Rufo para indentação do código Ruby. </li>
+        </ul>
+    </li>
 </ul>
-<p><strong>Tecnologias utilizadas:</strong>Capybara, Selenium Webdriver, Cucumber, Httparty, Chromedriver, Rspec, Postman.</p>
+<p><strong>Tecnologias utilizadas:</strong>Capybara, Selenium Webdriver, Cucumber, Httparty, Chromedriver, Rspec, Postman, Rufo.</p>
 
 <h2>Evoluindo o código de testes</h2>
 <h2>Relatórios de Testes</h2>
