@@ -11,6 +11,6 @@ Funcionalidade: Reproduzir Paródia
     Cenário: Ouvir Paródia
         Dado que eu gosto muito de "Rock"
         Quando toco a seguinte canção:
-            | parodia | Sprint de Luta Sprints de Gloria |
+            | parodia | Sprints de Luta Sprints de Gloria |
             | banda   | Charlie Brown Bug                |
         Então essa parodia deve ficar em modo de reprodução

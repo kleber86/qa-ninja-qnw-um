@@ -81,6 +81,11 @@
             <li>Criação da feature reproduzir player. Usando Contexto para efetuar login.</li>
         </ul>
     </li>
+    <li>Reproduzir Paródia Parte 2
+        <ul>
+            <li>Aprendendo a utilizar escopo do Capybara.</li>
+        </ul>
+    </li>
 </ul>
 
 <p><strong>Tecnologias utilizadas:</strong>Dynamic Steps, </p>
