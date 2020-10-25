@@ -86,7 +86,12 @@
             <li>Aprendendo a utilizar escopo do Capybara.</li>
         </ul>
     </li>
+    <li>Timeout do Capybara
+        <ul>
+            <li>Por padrão o Capybara espera até 2 segundos para encontrar o elemento da pagina. Podemos alterar esse tempo utilizando o default_max_wait_time no env.rb</li>
+        </ul>
+    </li>
 </ul>
 
-<p><strong>Tecnologias utilizadas:</strong>Dynamic Steps, </p>
+<p><strong>Tecnologias utilizadas:</strong>Dynamic Steps, Escopo, Contexto do Capybara.</p>
 <h2>Live de Encerramento</h2>

@@ -6,7 +6,7 @@ Funcionalidade: Reproduzir Paródia
     Para que eu possa ouvir as paródias das minhas bandas favoritas
 
     Contexto: Login
-        * Login com "kleber1@kleber.com" e "123456"
+        * Login com "kleber@kleber.com" e "123456"
 
     Cenário: Ouvir Paródia
         Dado que eu gosto muito de "Rock"

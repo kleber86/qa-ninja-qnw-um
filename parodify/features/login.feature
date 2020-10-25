@@ -8,7 +8,7 @@ Funcionalidade: Login
     Cenario: Login do usuário
 
         Dado que acesso a pagina Login
-        Quando submeto minhas credenciais com: "kleber1@kleber.com" e "123456"
+        Quando submeto minhas credenciais com: "kleber@kleber.com" e "123456"
         Então devo ser redirecionado para a area logada
 
     Esquema do Cenario: Tentativa de login
