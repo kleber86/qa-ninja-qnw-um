@@ -91,7 +91,12 @@
             <li>Por padrão o Capybara espera até 2 segundos para encontrar o elemento da pagina. Podemos alterar esse tempo utilizando o default_max_wait_time no env.rb</li>
         </ul>
     </li>
+    <li>Reports do Cucumber
+        <ul>
+            <li></li>
+        </ul>
+    </li>
 </ul>
 
-<p><strong>Tecnologias utilizadas:</strong>Dynamic Steps, Escopo, Contexto do Capybara.</p>
+<p><strong>Tecnologias utilizadas:</strong>Dynamic Steps, Escopo, Contexto do Capybara, default_max_wait_time, </p>
 <h2>Live de Encerramento</h2>
