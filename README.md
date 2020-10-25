@@ -76,6 +76,11 @@
             <li>Automatizando a feature Login. Reaproveitamento de steps de outras features com o mesmo nome.</li>
         </ul>
     </li>
+    <li>Reproduzir Paródia Parte 1
+        <ul>
+            <li>Criação da feature reproduzir player. Usando Contexto para efetuar login.</li>
+        </ul>
+    </li>
 </ul>
 
 <p><strong>Tecnologias utilizadas:</strong>Dynamic Steps, </p>
