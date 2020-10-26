@@ -1,1 +1,1 @@
-default: --publish-quiet --format html --out=logs/report.html
+default: --publish-quiet --format html --out=logs/report.html --format AllureCucumber::CucumberFormatter --out=logs

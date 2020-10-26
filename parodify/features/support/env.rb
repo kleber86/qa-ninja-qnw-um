@@ -1,6 +1,7 @@
 require "capybara"
 require "capybara/cucumber"
 require_relative "helpers"
+require "allure-cucumber"
 
 World(Helpers)
 

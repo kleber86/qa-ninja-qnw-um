@@ -93,10 +93,15 @@
     </li>
     <li>Reports do Cucumber
         <ul>
-            <li></li>
+            <li>Configurando o Cucumber para criação de relatórios.</li>
+        </ul>
+    </li>
+    <li>Allure Report S2
+        <ul>
+            <li>Implantando o Allure Report para uma apresentação mais profissional.</li>
         </ul>
     </li>
 </ul>
 
-<p><strong>Tecnologias utilizadas:</strong>Dynamic Steps, Escopo, Contexto do Capybara, default_max_wait_time, </p>
+<p><strong>Tecnologias utilizadas:</strong>Dynamic Steps, Escopo, Contexto do Capybara, default_max_wait_time, Relatórios, Allure Reports</p>
 <h2>Live de Encerramento</h2>
