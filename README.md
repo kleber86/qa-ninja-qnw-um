@@ -1,4 +1,4 @@
-<h1>QA Ninja Week - 1 Edição</h1>
+<h1>QA Ninja Week - 1ª Edição</h1>
 
 <h2>Apresentação</h2>
 <ul>
@@ -121,5 +121,4 @@
     <li>App Actions</li>
 </ul>
 
-<p><strong>Tecnologias utilizadas:</strong>Dynamic Steps, Escopo, Contexto do Capybara, default_max_wait_time, Relatórios, Allure Reports, Screenshots</p>
-<h2>Live de Encerramento</h2>
+<p><strong>Tecnologias utilizadas:</strong>Dynamic Steps, Escopo, Contexto do Capybara, default_max_wait_time, Relatórios, Allure Reports, Screenshots e App Actions.</p>
