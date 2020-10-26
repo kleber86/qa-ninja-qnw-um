@@ -101,7 +101,22 @@
             <li>Implantando o Allure Report para uma apresentação mais profissional.</li>
         </ul>
     </li>
+    <li>Instalando Allure CLI na mão
+        <ul>
+            <li>Não tive problemas na instalação do Allure.</li>
+        </ul>
+    </li>
+    <li>Limpando a pasta Logs
+        <ul>
+            <li>Para evitar que fiquem sujeitas de outras execuções das automações, foi implementado um recurso no Allure que sempre que uma automação for executada os arquivos da pasta log são excluidos.</li>
+        </ul>
+    </li>
+     <li> Obtendo Screenshots
+        <ul>
+            <li>Configuração realizada para implementar as sreenshots nos reportes do Allure.</li>
+        </ul>
+    </li>
 </ul>
 
-<p><strong>Tecnologias utilizadas:</strong>Dynamic Steps, Escopo, Contexto do Capybara, default_max_wait_time, Relatórios, Allure Reports</p>
+<p><strong>Tecnologias utilizadas:</strong>Dynamic Steps, Escopo, Contexto do Capybara, default_max_wait_time, Relatórios, Allure Reports, Screeshots</p>
 <h2>Live de Encerramento</h2>
