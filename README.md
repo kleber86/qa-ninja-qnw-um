@@ -116,7 +116,10 @@
             <li>Configuração realizada para implementar as sreenshots nos reportes do Allure.</li>
         </ul>
     </li>
+    <li>O dia em que eu Maximizei a Tela :( </li>
+    <li>Dica: URL Padrão </li>
+    <li>App Actions</li>
 </ul>
 
-<p><strong>Tecnologias utilizadas:</strong>Dynamic Steps, Escopo, Contexto do Capybara, default_max_wait_time, Relatórios, Allure Reports, Screeshots</p>
+<p><strong>Tecnologias utilizadas:</strong>Dynamic Steps, Escopo, Contexto do Capybara, default_max_wait_time, Relatórios, Allure Reports, Screenshots</p>
 <h2>Live de Encerramento</h2>
